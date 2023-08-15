@@ -1,0 +1,28 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+header h1{
+   text-align: center; 
+}
+header h2{
+    text-align: center;
+    color:rgb(129, 55, 129);
+}
+table{
+    border: 2px solid;
+    border-color: darkorchid;
+    margin: 0 auto;
+    width: 650px;
+}
+thead {
+    
+    background-color: plum;
+    
+}
+tbody td{
+    border-top: 1px solid darkorchid;
+}
+.td1{
+    background-color: beige;
+    font-family: monospace;
+}
